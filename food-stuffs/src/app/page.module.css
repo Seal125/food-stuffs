@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.navbar {
+  display: grid;
+  justify-content: flex-start;
+  grid-template-columns: 4rem 4rem;
+}
+
+.navbar ul {
+  text-decoration: none;
+}

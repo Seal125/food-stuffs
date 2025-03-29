@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
 
-export default function Home() {
-    return "Hello bruh!";
+export default function FoodSearch() {
+    return "Hello food!";
 }
